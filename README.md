@@ -63,18 +63,18 @@ I use real projects as a laboratory for applying what I learn.
 
 **Blockchain**
 
-`Solana` `Rust` `Anchor` `pinocchio`
+`Solana` `Rust` `Anchor` `Pinocchio`
 
 **Tools**
 
-`Git` `Linux` `Docker` `GitHub Actions` `wordpress`
+`Git` `Linux` `Docker` `GitHub Actions` `Wordpress`
 
 ---
 
 ## 🤝 Connect
 
-* **X:** [@xavierScript](https://x.com/YOUR_USERNAME)
-* **LinkedIn:** [David Onwuka](https://www.linkedin.com/)
+* **X:** [@xavierScript](https://x.com/xavierScript)
+* **LinkedIn:** [David Onwuka](https://www.linkedin.com/in/david-onwuka-1b882a220/)
 * **Email:** david111francisco@gmail.com
 
 <!--
