@@ -67,7 +67,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Tools**
 
-`Git` `Linux` `Docker` `Wordpress`
+`Git` `Linux` `Docker` `WordPress`
 
 ---
 
