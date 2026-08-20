@@ -4,7 +4,7 @@
 
 I enjoy building things from the ground up, understanding how systems work underneath, and turning ideas into software people can actually use.
 
-Currently focused on **backend & systems engineering**, while exploring **Solana and blockchain development** in general while building my own products.
+Currently focused on **backend & systems engineering**, exploring **Solana and blockchains** in general and building my own products.
 
 ---
 
