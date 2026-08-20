@@ -43,7 +43,7 @@ I'm currently going deeper into:
 * Software architecture
 * Performance and scalability
 
-I use real projects—including Sabipen—as a laboratory for applying what I learn.
+I use real projects as a laboratory for applying what I learn.
 
 ---
 
@@ -68,13 +68,6 @@ I use real projects—including Sabipen—as a laboratory for applying what I le
 **Tools**
 
 `Git` `Linux` `Docker` `GitHub Actions` `wordpress`
-
----
-
-## 📌 Selected Work
-
-* 🏗️ **Sabipen** — product currently in development · [Live](https://sabipen.com)
-* ⛓️ **Solana Projects** — blockchain experiments and hackathon builds
 
 ---
 
