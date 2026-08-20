@@ -1,4 +1,4 @@
-# Hey, I'm David 👋
+# Hey, I'm David 
 
 **Software Engineer building products and exploring blockchain systems.**
 
@@ -8,9 +8,9 @@ Currently focused on **backend & systems engineering**, exploring **Solana and b
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
-### 🏗️ Sabipen
+### SabiPen
 
 A product I'm building for fiction writers.
 
@@ -18,11 +18,11 @@ A product I'm building for fiction writers.
 
 The codebase is currently private, but you can check our progress live:
 
-🌐 **[Visit Sabipen](https://sabipen.com)**
+**[Visit Sabipen](https://sabipen.com)**
 
 ---
 
-## ⛓️ Exploring
+## Exploring
 
 **Solana & Blockchain Systems**
 
@@ -32,7 +32,7 @@ Experimenting with Solana, Rust, and several other Blockchains that pique my int
 
 ---
 
-## ⚙️ Engineering
+## Engineering
 
 I'm currently going deeper into:
 
@@ -47,7 +47,7 @@ I use real projects as a laboratory for applying what I learn.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 **Languages**
 
@@ -71,7 +71,7 @@ I use real projects as a laboratory for applying what I learn.
 
 ---
 
-## 🤝 Connect
+## Connect
 
 * **X:** [@xavierScript](https://x.com/xavierScript)
 * **LinkedIn:** [David Onwuka](https://www.linkedin.com/in/david-onwuka-1b882a220/)
