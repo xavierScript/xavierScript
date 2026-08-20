@@ -51,7 +51,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Languages**
 
-`TypeScript` `JavaScript` `Rust` `Python` `Solidity`
+`TypeScript` `JavaScript` `Rust` `Solidity` `Python` 
 
 **Backend**
 
@@ -63,7 +63,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Blockchain**
 
-`SVM` `EVM` `Rust` `Anchor` `Pinocchio` `Solidity`
+`SVM` `EVM` `Anchor` `Pinocchio`
 
 **Tools**
 
