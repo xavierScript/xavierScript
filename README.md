@@ -55,11 +55,11 @@ I use real projects as a laboratory for applying what I learn.
 
 **Backend**
 
-`Node.js` `Fastify` `Express` `PostgreSQL` `MongoDB` `Redis` `Prisma` `REST APIs`
+`Node.js` `Fastify` `Express.js` `PostgreSQL` `MongoDB` `Redis` `Prisma` `REST APIs`
 
 **Frontend**
 
-`React` `React Native` `Next.js` `Vite` `Tailwind CSS`
+`React.js` `React Native` `Next.js` `Tailwind CSS`
 
 **Blockchain**
 
