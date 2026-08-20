@@ -63,7 +63,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Blockchain**
 
-`Solana` `Rust` `Anchor` `Pinocchio`
+`SVM` `EVM` `Rust` `Anchor` `Pinocchio` `Solidity`
 
 **Tools**
 
