@@ -59,7 +59,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Frontend**
 
-`React` `Next.js` `Vite` `Tailwind CSS`
+`React` `React Native` `Next.js` `Vite` `Tailwind CSS`
 
 **Blockchain**
 
@@ -67,7 +67,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Tools**
 
-`Git` `Linux` `Docker` `GitHub Actions` `Wordpress`
+`Git` `Linux` `Docker` `Wordpress`
 
 ---
 
