@@ -55,7 +55,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Backend**
 
-`Node.js` `Fastify` `Express` `PostgreSQL` `Redis` `Prisma` `REST APIs`
+`Node.js` `Fastify` `Express` `PostgreSQL` `MongoDB` `Redis` `Prisma` `REST APIs`
 
 **Frontend**
 
