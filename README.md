@@ -18,7 +18,7 @@ A product I'm building for fiction writers.
 
 The codebase is currently private, but you can check our progress live:
 
-**[Visit Sabipen](https://sabipen.com)**
+**[Visit SabiPen](https://sabipen.com)**
 
 ---
 
