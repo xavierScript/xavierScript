@@ -51,7 +51,7 @@ I use real projects as a laboratory for applying what I learn.
 
 **Languages**
 
-`TypeScript` `JavaScript` `Rust` `Solidity` `Python` 
+`TypeScript` `JavaScript` `Rust` `Solidity` `Python` `C`
 
 **Backend**
 
